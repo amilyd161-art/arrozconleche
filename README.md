@@ -1,6 +1,6 @@
 # Arroz con leche
 Acá vas a encontrar varias recetas del postre arroz con leche.
-# Ingredientes
+# Ingredientes 
 * 2 tazas de agua (500 ml)
 * 1 taza de arroz (250 g)
 * 1 astilla de canela (5 g)
