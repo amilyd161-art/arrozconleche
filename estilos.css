@@ -1,1 +1,40 @@
+body {
+    background-color: #ffaaff;
+    color: whitesmoke;
+    font-family: monospace;
+    text-align: center;
+}
 
+h1{
+    font-size: 4em;
+    color: rgb(255, 255, 255);
+    margin-top: 10vh;
+    height: 10vh;
+}
+img{
+    width:200px;
+    height:auto;
+}
+
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+    line-height: 0.5em;
+}
+
+.subparrafo{
+    font-size:1.2em;
+    color: magenta;
+   
+}
+
+#final{
+    color: rgb(0, 255, 251);
+    line-height:2.5em;
+}
+
+/* De aquí en adelante tengo la frase final de mi página */
+#final:hover {
+  color: #ff00cc; /* Cambia a rosa */
+    
+}
