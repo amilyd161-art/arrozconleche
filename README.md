@@ -21,3 +21,5 @@ Acá vas a encontrar varias recetas del postre arroz con leche.
 * Por último, agrega las uvas pasas y revuelve bien para que se integren en el arroz con leche. Apaga el fuego y retira la olla.
 # Paso 6: 
 * Esta es una receta que podés servir fría o caliente. Vierte la mezcla en 8 porciones iguales y, para decorar, espolvoreá canela molida sobre el arroz con leche. ¡Hacer arroz con leche nunca había sido tan fácil!
+# Resultado 
+<img width="1200" height="600" alt="92cd34cb06980d6b4096cb73e5cab8fa_arroz-con-leche" src="https://github.com/user-attachments/assets/11eb8bfe-ae2f-4e7b-a751-68e1bbd790bd" />
