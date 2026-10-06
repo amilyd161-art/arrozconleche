@@ -9,11 +9,14 @@ h1 {
     font-size: 4em;
     color: #8b4513;
     margin-top: 10vh;
-    height: 10vh;
+}
+
+h2 {
+    color: #c0642b;
 }
 
 img {
-    width: 200px;
+    width: 250px;
     height: auto;
     border-radius: 50%;
     border: 4px solid #d9a441;
@@ -23,6 +26,13 @@ p {
     font-family: Georgia, "Times New Roman", serif;
     font-size: 1.1em;
     line-height: 1.6em;
+}
+
+ul, ol {
+    display: inline-block;
+    text-align: left;
+    font-size: 1.1em;
+    line-height: 1.8em;
 }
 
 .subparrafo {
